@@ -49,6 +49,7 @@ body {
   display: flex;
   justify-content: center;
   z-index: 1000;
+  background-color: #574949;
 }
 
 .navbar {
@@ -188,7 +189,7 @@ body {
 
 /* Productos */
 .products {
-  background-color: #21a1c9;
+  background-color:  #33313198;
 }
 
 .tabs {
@@ -198,7 +199,6 @@ body {
 }
 
 .tabs label {
-  background-color: aqua;
   width: 15%;
   order: 1;
   display: block;
@@ -294,6 +294,8 @@ body {
   padding: 100px 0;
   display: flex;
   align-items: center;
+
+
 }
 
 .info-img {
@@ -336,6 +338,7 @@ body {
 .btn-2:hover {
   background-color: #ab1c15;
 }
+
 
 /* Horarios */
 .horario {
